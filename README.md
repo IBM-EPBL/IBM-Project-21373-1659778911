@@ -36,16 +36,16 @@ College : Sri Sai Ram Insitute of Technology
 
 ------------------
 ## Assignment
-[Team Leader : Swetha Selvabharathi]
-[Team member : Anu Nandhini J]
-[Team member : Subashini T]
-[Team member : Ramya R])
+* [Team Leader : Swetha Selvabharathi]
+* [Team member : Anu Nandhini J]
+* [Team member : Subashini T]
+* [Team member : Ramya R])
 
 ------------------
 ## Project Design & Planning
-[Ideation Phase]
-[Project Design Phase 1]
-[Project Design Phase II]
-[Project Planning]
+* [Ideation Phase]
+* [Project Design Phase 1]
+* [Project Design Phase II]
+* [Project Planning]
 
 
