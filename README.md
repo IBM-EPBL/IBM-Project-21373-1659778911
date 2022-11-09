@@ -10,7 +10,7 @@
 
 **Team ID** : PNT2022TMID20701
 
-**Team Size ** : 4
+**Team Size** : 4
 
 **Team Leader** : Swetha
 
