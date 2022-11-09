@@ -2,7 +2,7 @@
 # IBM-Project-21373-1659778911
 
 
-## Early Detection of Chronic Kidney Disease using Machine Learning
+# Early Detection of Chronic Kidney Disease using Machine Learning
 ## Category: Machine Learning
 **Batch Name** : B5-5M1E
 
@@ -35,3 +35,17 @@ Branch : Computer Science Engineering
 College : Sri Sai Ram Insitute of Technology
 
 ------------------
+## Assignment
+[Team Leader : Swetha Selvabharathi]
+[Team member : Anu Nandhini J]
+[Team member : Subashini T]
+[Team member : Ramya R])
+
+------------------
+## Project Design & Planning
+[Ideation Phase]
+[Project Design Phase 1]
+[Project Design Phase II]
+[Project Planning]
+
+
