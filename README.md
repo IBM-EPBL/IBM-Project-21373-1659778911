@@ -6,15 +6,17 @@
 ## Category: Machine Learning
 Batch Name : B5-5M1E
 
+------------------
 
-Team ID : PNT2022TMID20701
+**Team ID** : PNT2022TMID20701
 
-Team Size : 4
+**Team Size **: 4
 
-Team Leader : Swetha
+**Team Leader** : Swetha
 
-Team member : Ramya
+**Team member** : Ramya
 
-Team member : Subashini
+**Team member** : Subashini
 
-Team member : Anu Nandhini
+**Team member** : Anu Nandhini
+------------------
