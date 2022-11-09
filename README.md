@@ -21,3 +21,17 @@
 **Team member** : Anu Nandhini
 
 ------------------
+
+**Industry Mentor(s) Name** : Lalitha Gayathri
+
+**Faculty Mentor(s) Name** : ASHOK P
+
+------------------
+
+Degree : Bachelor of Engineering
+
+Branch : Computer Science Engineering 
+
+College : Sri Sai Ram Insitute of Technology
+
+------------------
