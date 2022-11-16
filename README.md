@@ -39,7 +39,7 @@ College : Sri Sai Ram Insitute of Technology
 * [Team Leader : Swetha Selvabharathi]
 * [Team member : Anu Nandhini J]
 * [Team member : Subashini T]
-* [Team member : Ramya R])
+* [Team member : Ramya R]
 
 ------------------
 ## Project Design & Planning
